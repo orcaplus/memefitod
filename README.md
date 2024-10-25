@@ -2,7 +2,6 @@
 
 memefi bot automation for memefi miniapp https://t.me/memefi_coin_bot/main?startapp=r_854efa1178 which has quite complete features, made more concise and readable for development, taken from the original repository owned by 💘 [adearmanwijaya](https://github.com/orcaplus).
 
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
 
 ## Table of Contents
 
@@ -125,8 +124,6 @@ python main.py
 ## License
 This project is licensed under the `MIT License` - see the LICENSE file for details.
 
-## Contact
-For any questions or issues, please open an issue on GitHub or contact me at [ https://t.me/itsjaw_real ]..
 
 ## Thanks to
 Adearmanwijaya - https://github.com/orcaplus
